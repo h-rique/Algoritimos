@@ -1,5 +1,5 @@
 /******************************************************************************
-lista 6 
+
 exercicio 7
 Crie uma sub-rotina que receba um vetor e seu tamanho e retorne ao programa principal
 o valor e a posição do maior componente deste vetor.
