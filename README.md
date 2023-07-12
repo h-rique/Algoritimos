@@ -1,2 +1,2 @@
 # Algoritimos
- Aprendendo lógica de programação em C 
+ Aprendendo lógica de programação usando C 
